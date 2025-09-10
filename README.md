@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @scracha
 - 👀 I’m interested in GIS and automation...
 - 🌱 I’m currently learning Python
+- I dabble in PHP
+- I was a c / c++ developer then took a 23 year break from coding!
 - 💞️  ...
 
 <!---
