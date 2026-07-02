@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - I dabble in PHP
 - I was a c / c++ developer then took a 23 year break from coding!
-- Most of my newer repos are mainly LLM coded.
+- Most of my newer repos are mainly LLM coded but I do go through the code and test appropriately.
 - 💞️  ...
 
 <!---
